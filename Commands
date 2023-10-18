@@ -1,0 +1,25 @@
+$ mkdir Workshop
+$ ls
+$ cd Workshop
+$ ls
+$ git init
+$ ls
+$ ls -a
+$ touch Commands
+$ ls
+$ git status
+$ git add .
+$ git status
+$ git commit -m "First commit from git bash"
+
+$ git config --global credentials.helper cache
+$ git config --global user.email "<github-email>"
+$ git config --global user.name "<github-userName>"
+$ git status
+$ git commit -m "First commit from git bash"
+$ git log  
+$ git push
+$ git remote add origin "<repository-url>" 
+$ git push origin master
+
+
